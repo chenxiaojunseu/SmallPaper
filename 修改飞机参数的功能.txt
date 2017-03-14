@@ -1,1 +1,2 @@
-edit the plane
+edit the plane；
+这应该是svn里面的。提交之前需要先update一下。。先更新。在提交自己的修改。防止冲突。
